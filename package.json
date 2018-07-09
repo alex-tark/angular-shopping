@@ -1,7 +1,6 @@
 {
   "name": "angular-shopping",
-  "version": "1.0.0",
-  "description": "Simple Angular.js(5.x.x) shopping card application",
+  "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
