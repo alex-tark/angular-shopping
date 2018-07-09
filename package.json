@@ -1,0 +1,20 @@
+{
+  "name": "angular-shopping",
+  "version": "1.0.0",
+  "description": "Simple Angular.js(5.x.x) shopping card application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-tark/angular-shopping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-tark/angular-shopping/issues"
+  },
+  "homepage": "https://github.com/alex-tark/angular-shopping#readme"
+}
